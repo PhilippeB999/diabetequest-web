@@ -869,7 +869,7 @@ function renderAccessGate() {
     <div class="lang-toggle-top">
       <button onclick="toggleLang()">${state.lang === 'fr' ? 'English' : 'Français'}</button>
     </div>
-    <h1>🌳 ${UI_TEXT[state.lang].appName}</h1>
+    <h1>🩸 ${UI_TEXT[state.lang].appName}</h1>
     <label class="field-label">${t("accessCodeTitle")}</label>
     <p class="tagline">${trialOver ? t("accessCodeTrialOver") : t("accessCodePrompt")}</p>
     <input id="accessCodeInput" type="text" autocapitalize="characters" maxlength="30"
@@ -904,7 +904,7 @@ function renderWelcome() {
     <div class="lang-toggle-top">
       <button onclick="toggleLang()">${state.lang === 'fr' ? 'English' : 'Français'}</button>
     </div>
-    <h1>🌳 ${UI_TEXT[state.lang].appName}</h1>
+    <h1>🩸 ${UI_TEXT[state.lang].appName}</h1>
     <p class="tagline">${t("welcomeHeading")}</p>
     <p class="welcome-intro">${t("welcomeIntro")}</p>
     <div class="welcome-list">
@@ -934,7 +934,7 @@ function renderOnboarding() {
     <div class="lang-toggle-top">
       <button onclick="toggleLang()">${state.lang === 'fr' ? 'English' : 'Français'}</button>
     </div>
-    <h1>🌳 ${UI_TEXT[state.lang].appName}</h1>
+    <h1>🩸 ${UI_TEXT[state.lang].appName}</h1>
     <p class="tagline">${t("tagline")}</p>
     <p class="program-title">${PROGRAM[state.lang].title} — ${PROGRAM[state.lang].subtitle}</p>
 
