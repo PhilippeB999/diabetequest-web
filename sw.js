@@ -4,7 +4,7 @@
    ⚠️ Bumper la version du CACHE à CHAQUE déploiement
       (diabetequest-v1 -> v2 -> v3 ...). */
 
-const CACHE = "diabetequest-v1";
+const CACHE = "diabetequest-v2";
 const ASSETS = [
   "index.html",
   "theme-saisonnier.js",
