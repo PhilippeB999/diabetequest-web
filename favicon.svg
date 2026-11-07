@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- DiabèteQuest : cercle bleu (symbole international du diabète) + goutte de glycémie capillaire -->
+  <circle cx="32" cy="32" r="30" fill="#1565C0"/>
+  <circle cx="32" cy="32" r="21" fill="none" stroke="#ffffff" stroke-width="5"/>
+  <path d="M32 18 C32 18 22 30 22 37 A10 10 0 0 0 42 37 C42 30 32 18 32 18 Z" fill="#ffffff"/>
+  <circle cx="28" cy="37" r="2.6" fill="#f7b500"/>
+</svg>
